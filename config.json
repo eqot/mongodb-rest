@@ -1,9 +1,9 @@
 {
 	"db": {
-		"port": 27101,
-		"host": "flame.mongohq.com",
-		"username":"admin",
-		"password":"4dm1n"
+		"port": 27017,
+		"host": "192.168.33.10",
+		"username": "mindmap",
+		"password": "mindmap"
 	},
 	"server": {
 		"port": 3000,
@@ -13,6 +13,6 @@
 		"allowOrigin": "*",
 		"allowMethods": "GET,POST,PUT,DELETE,HEAD,OPTIONS"
 	},
-	"flavor": "nounderscore",
+	"flavor": "regular",
 	"debug": true
 }
