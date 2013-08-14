@@ -13,7 +13,8 @@ var fs = require("fs"),
 
 var config = { "db": {
   'port': 27017,
-  'host': "localhost"
+  // 'host': "localhost"
+  'host': "192.168.33.10"
   },
   'server': {
     'port': 3000,
