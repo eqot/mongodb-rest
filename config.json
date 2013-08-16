@@ -1,9 +1,7 @@
 {
 	"db": {
 		"port": 27017,
-		"host": "192.168.33.10",
-		"username": "mindmap",
-		"password": "mindmap"
+		"host": "192.168.33.10"
 	},
 	"server": {
 		"port": 3000,
